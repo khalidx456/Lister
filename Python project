@@ -1,0 +1,9 @@
+1. termux Installation cmd:
+pkg install python
+pkg install python2 & python3
+pip install lolcat
+ls 
+cd Toolxkhalid
+chmod +x * && chmod +x Programe.py $all fill be going to executable mode started for run
+python Programe.py
+run
