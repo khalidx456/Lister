@@ -1,0 +1,12 @@
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pip install lolcat
+$ pkg install git
+$ git clone https://github.com/Lister/khalidx456
+$ ls
+$ cd Lister
+$ ls
+$ chmod +x code.py 
+$ python code.py 
+
